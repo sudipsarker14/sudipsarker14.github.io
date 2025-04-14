@@ -43,6 +43,7 @@ body
 }
 ul{
     list-style: none;
+    color: var(--text-black-900);
 }
 .section
 {
